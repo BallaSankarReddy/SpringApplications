@@ -1,0 +1,22 @@
+spring:
+  datasource:
+    driver-class-name: oracle.jdbc.driver.OracleDriver
+    url: jdbc:oracle:thin:@localhost:1521:xe
+    username: system
+    password: manager
+    
+  jpa:
+    hibernate:
+      ddl-auto: create
+    show-sql: true
+
+server:
+  port: 9090
+  
+
+app:
+  name: in28Minutes
+  
+welcome:
+  message:Welcome message from property file! Welcome to ${app.name}
+  
