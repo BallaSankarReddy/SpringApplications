@@ -1,0 +1,52 @@
+Daimler Truck
+ Client Interview : L2
+ Organized by : Shaik Abdul Subani
+In a development cycle, what all activities did you perform in your last project.
+My technical skill set.
+If I am asking you to write an api, explain me the control flow with code/annotations that you'll write to perform the action.
+How do you remove unused dependency from your project.
+Which ORM tool have you used in your last project.
+How do you write Native SQL query in your code and where do you write it.
+Suppose, there are 3 microservices, A,B and C. If anyone fails, how do you resolve such scenarios.
+How comfortable are you to work as an individual contributor?
+If there a short term project coming with a different skill set, like python, How comfortable are you to learn and work on it.
+If there's a conflict, say I am asking you to write a solution and your approach to the solution is different and optimised. How will you convince me to accept your solution?
+Write a program to find duplicates from the list.
+
+Panel : Hiran Rajeev(24-06)
+1. Input: Happy Xmas to you Output: yppaH samx ot uoy
+2. Create 4 Employee object (name,address,dept,age). Write Java code to get Employees whose age is greater than 25
+3. Explain about project, technologies used, communication pattern, your role
+4. How did you communicate between microservices
+5. How did you communicate between front-end and backend
+6. Explain control flow of API request from client
+7. Write SQL query for get employee age greater than 25
+8. Write SQL query to get name and address from Employee and Address table (write join query)
+9. In above(7) sort the above result based on name
+
+18-Jun
+Introduction
+Last project you've worked on, feature developed, explain the functionality and challenge that you've faced
+String vs StringBuffer vs StringBuilder
+Internal working of HashMap
+Garbage Collection in Java
+How can Garbage Collection tunning can impact performance
+In a multi-threaded environment, How will you manage a variable to ensure data consistency/integrity
+Scenario : Write code to demostrate the scenario : There are 2 threads, and they are incrementing the counter.
+Annotations used in SpringBoot application
+Spring vs Springboot
+int[] arr = {1,2,2,5,3,2}; // getDuplicate from the given array
+List<Employee> where Employee{id,dept,salary}, need to find sum of salaries of employees from each department using streams.
+How do you avoid deadlock in multithreading?
+Scenario : I have a situation where indefinite number of threads are there and at a time I can only work with let say, 10 threads, how can I implement this situation?
+Do you know about threadpool?
+JavaScript : 
+  Difference between var, let and const
+  What is hoisting in JavaScript?
+  Difference between null and undefined.
+  Closure in JavaScript.
+  How is arrow function different from normal function?
+Runnable vs Callable, usecase scenario
+List<Employee> where Employee{id,dept,salary} need to find Employees, from each department with second highest salary using streams.
+
+
