@@ -1,0 +1,236 @@
+Q1) Given a list of integers, find out all the even numbers exist in the list using Stream functions?
+
+Q2) Given a list of integers, find out all the numbers starting with 1 using Stream functions?
+
+Q3) How to find duplicate elements in a given integers list in java using Stream functions?
+
+Q4) Given the list of integers, find the first element of the list using Stream functions?
+
+Q5) Given a list of integers, find the total number of elements present in the list using Stream functions?
+
+Q6) Given a list of integers, find the maximum value element present in it using Stream functions?
+
+Q7) Given a String, find the first non-repeated character in it using Stream functions?
+
+Q8) Given a String, find the first repeated character in it using Stream functions?
+
+Q9) Given a list of integers, sort all the values present in it using Stream functions?
+
+Q8) Given a String, find the first repeated character in it using Stream functions?
+
+Q9) Given a list of integers, sort all the values present in it using Stream functions?
+
+Q10) Given a list of integers, sort all the values present in it in descending order using Stream functions?
+
+Q11) Write a Java 8 program to concatenate two Streams?
+
+Q12 ) Write a Java 8 program to find the number of Strings in a list whose length is greater
+
+than 5?
+
+Q13) Explain StringJoiner Class in Java 8? How can we achieve joining multiple Strings
+
+using StringJoiner Class?
+
+Q14)Find the Word/number got repeated by using Stream api
+
+   input:2,3,34,5,5,4,3,3,3 
+
+   output:2-1,3-4,34-1,5-2,4-1
+
+15) Write a Java Lambda Expression to Create Thread 
+
+16) How Lambda Expression and Functional Interfaces are Related?
+
+17)Given a list of Strings .sConvert String to uppercase and Join them with coma (,) using Stream api
+
+List=["USA", "Japan", "France", "Germany", "Italy", "U.K.","Canada"]
+
+18)Given a list of Integer find square of all distinct numbers By using stream api
+
+  list=[9, 10, 3, 4, 7, 3, 4]
+
+19)Given a List of Integers find total count, min, max, sum, and the average for numbers by using Stream api
+
+input  :list=[2, 3, 5, 7, 11, 13, 17, 19, 23, 29] 
+
+output: count=10, sum=129, min=2, average=12.900000, max=29
+
+20) Given String str="telCo" Toggle it to str=TELcO
+
+ 
+ Is it possbile to have Multiple Inheritance in Java?
+What is difference in Abstract class and Interface
+What is polymorphism? What is static and Dynamic polymorphism?
+Give example of Dynamic and Static polymorphism.
+What is operator overloading?
+What is encapsulation? How is it implemented?
+Give example of encapsulation.
+What do you understand by Collection Framework in Java? What is its advantages?
+major advantages of the Generic Collection.
+How the Collection objects are sorted in Java?
+Differentiate between Comparable and Comparator
+Differentiate between an Array and an ArrayList.
+What is the difference between Set and Map?
+What do you understand by BlockingQueue?Give Practical implementation
+If you want to store and retrive objects sequentially, Which collection object will you use?
+If you want to strore a hirearcial data of city, district, State and Nation, Which collection object will you use?
+Expain working on HashMap
+Why Map doesn’t extend the Collection Interface?
+How to remove duplicates from ArrayList?
+What is meant by immutable in Java? Why is String immutable in Java?
+How to make an object immutable?
+Explain where in yor application you will use Immutable object
+Associations, Aggregation (Has -a , Is-a)
+What features of Java 8 have you used?
+What changes happened in Java8 for Interface
+What is relation between Lamda expression and Fuctional interface? Give some predefine Functional interfaces used in lamda expressions
+What are Java Stream API? What are its advantages?
+Explain a senario where you will use Java Stream API
+What is difference between Map and Flat Map.
+Explain working and advatages of Parallel Stream
+Categories Java Design patterns?
+Explain the advantages of Java design pattern?
+What are the Creational Patterns?
+What Is Factory Pattern?
+What Is Abstract Factory Pattern?
+Explain the Singleton pattern? Give examples
+How to impletement singleton pattern? And give examples where they are used
+What are the Adapter patterns?
+What is the decorator pattern in Java explain it with an example?
+What are Some Design Patterns which are used in the JDK library?
+What are the MVC patterns?
+Can you explain different design patterns used in your application
+ 
+ Microservices: -
+1. Explain the concept of microservices architecture. How does it differ from monolithic architecture, and what are its key advantages and challenges?
+2. What is service discovery, and how is it typically implemented in a microservices environment?
+3. Discuss the importance of API gateways in microservices architecture. Provide examples of how they are used.
+4. Explain the role of containers and orchestration tools (e.g., Docker and Kubernetes) in microservices deployment.
+5. Describe the challenges and strategies for managing data consistency in a microservices ecosystem.
+6. Discuss the principles of microservices fault tolerance and resilience. How can circuit breakers and retries be implemented in Java microservices?
+7. What is the purpose of a microservices registry, and how does it help in service discovery and communication?
+8. Explain the concept of microservices communication patterns, including synchronous and asynchronous communication.
+9. How can you handle security concerns in a microservices architecture, especially in terms of authentication and authorization?
+10. Discuss the challenges and solutions for testing and debugging microservices applications.
+Advanced Microservices:
+1. Explain the concept of a distributed tracing system and its role in monitoring and troubleshooting microservices. Provide examples of popular distributed tracing tools.
+2. Discuss the principles of event-driven architecture in microservices. How can events be leveraged for communication between microservices?
+3. Explain the concept of polyglot persistence in microservices. How can different microservices use different databases based on their specific requirements.
+4. Describe the challenges and strategies for implementing eventual consistency in a microservices system.
+5. Discuss the principles of chaos engineering and how it can be applied to test the resilience of microservices.
+6. What is API versioning, and how is it typically managed in a microservices environment?
+7. Explain the role of API gateways in handling cross-cutting concerns such as security, rate limiting, and logging in a microservices architecture.
+8. Discuss the concept of canary releases and blue-green deployments in the context of microservices.
+9. Explain the challenges and solutions for managing state in microservices. How can stateful microservices be designed and scaled?
+10. Discuss the considerations and strategies for migrating from a monolithic architecture to a microservices architecture.
+ 
+Advanced Multi-threading
+
+265.What is a Thread in Java?
+
+266.What is the priority of a Thread and how it is used in scheduling?
+
+267.What is the default priority of a thread in Java?
+
+268.What are the three different priorities that can be set on a Thread in
+
+Java?
+
+269.What is the purpose of join() method in Thread class?
+
+270.What is the fundamental difference between wait() and sleep()
+
+methods?
+
+271.Is it possible to call run() method instead of start() on a thread in
+
+Java?
+
+272.What is a daemon thread in Java?
+
+273.How can we make a regular thread Daemon thread in Java?
+
+274.How will you make a user thread into daemon thread if it has already
+
+started?
+
+275.Can we start a thread two times in Java?
+
+276.What is a Shutdown hook in Java?
+
+277.What is synchronization in Java?
+
+278.What is the purpose of Synchronized block in Java?
+
+279.What is static synchronization?
+
+280.What is a Deadlock situation?
+
+281.What is the meaning of concurrency?
+
+282.What is the main difference between process and thread?
+
+283.What is a process and thread in the context of Java?
+
+284.What is a Scheduler?
+
+285.What is the minimum number of Threads in a Java program?
+
+286.What are the properties of a Java thread?
+
+287.What are the different states of a Thread in Java?
+
+288.How will you set the priority of a thread in Java?
+
+289.What is the purpose of Thread Groups in Java?
+
+290.Why we should not stop a thread by calling its stop() method?
+
+291.How will you create a Thread in Java?
+
+292.How can we stop a thread in the middle of execution in Java?
+
+293.How do you access the current thread in a Java program?
+
+294.What is Busy waiting in Multi-threading?
+
+295.How can we prevent busy waiting in Java?
+
+296.Can we use Thread.sleep() method for real-time processing in Java?
+
+297.Can we wake up a thread that has been put to sleep by using
+
+Thread.sleep() method?
+
+298.What are the two ways to check if a Thread has been interrupted?
+
+299.How can we make sure that Parent thread waits for termination of
+
+Child thread?
+
+300.How will you handle InterruptedException in Java?
+
+301.Which intrinsic lock is acquired by a synchronized method in Java?
+
+302.Can we mark a constructor as synchronized in Java?
+
+303.Can we use primitive values for intrinsic locks?
+
+304.Do we have re-entrant property in intrinsic locks?
+
+305.What is an atomic operation?
+
+306.Can we consider the statement i++ as an atomic operation in Java?
+
+307.What are the Atomic operations in Java?
+
+308.Can you check if following code is thread-safe?
+
+309.What are the minimum requirements for a Deadlock situation in a
+
+program?
+
+310.How can we prevent a Deadlock?
+
+ 
