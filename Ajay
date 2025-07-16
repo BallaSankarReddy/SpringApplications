@@ -1,0 +1,206 @@
+Mandagiri Ajay	Interview Questions on 16th (Virtual) and 17th(F2F) and Coordinator M.Shifa	Interview Question on 18th and Coordinator Shaik,Abdul	Interview Question on 23rd and Coordinator Charan_SP	"Interview Date : 24-06-2025
+Panel: V C, Harshavardhan,Shivanagol Ajay"	"Interview Panel: Piyush, Rawal 
+Interview Date: 01-07-2025"
+	"Date: 16-06-2025 
+Panel: M Shifa 
+
+1.Introduction 
+2.specific technical Challenges issues faced on previous projects and how you overcame it? 
+3.Multithreading mechanism 
+4.Lazy loading, Eager Loading 
+5.Fibonacci series 
+6.Employees Data has dept, salary - find sum of salaries based on department 
+7.DOM Vs Virtual DOM 
+8.State Management in react  
+9.Remove duplicates from list in javascript 
+removeDuplicates([1, 2, 2, 3]); // [1, 2, 3]  
+10. Promise   
+Face to Face Interview- - L2  
+Date: 17-06-2025 
+Panel: M Shifa 
+1. Introduction  
+
+2. Previous Project Experience   
+
+3. Confident on Resume mentioned skills   
+
+4. React Dom Lifecycle   
+
+5. arr = ['a',['b','c'],['e','f']] into one array using JavaScript/React   
+
+6. In React how you implemen000t performance efficiency on existing project.   
+
+7.Realtime scenario - Microservice implementation on Product category. 8.@Component and @Configuration add in utility class so how many beans it will create.   
+
+9.Realtime Scenario - in controller class there is Get Mapping class with Response Entity so, how will you implement -> if I pass param as 'cloth' or 'groceries' based on search result in controller class.   
+
+10.Authentication and authorization -> Spring security, JWT 
+"	"""Interview Date: 18/06/2025 - L1 
+
+Panel: Shaik Abdul Subani  
+
+1- input is --int[] nums = {0, 1, 0, 3, 12}; and output is = 1,3,12,0,0 
+
+2. Java 8 Features and explain each feature 
+
+3. what are the new functional interfaces in java 8. write any use case for those with interface. consumer, supplier, predicate 
+
+4. write a program with list of names using stream convert all names with uppercase and sort ascending and descending order  
+
+5. Add one more duplicate in the list do find how many occurrence of each element. 
+
+6. Explain OOPS Concepts and write program for Method Overriding 
+
+7. Explain Thread Class and write program for the Thread Class. """	"Interview Date : 23-06-2025 
+
+Panel: Charan_sp 
+
+Shared the link to give Output for the programs 
+
+1.Thread Programs 
+
+MyThread t1 = new Thread(); 
+
+t1.start(); 
+
+t1.start(); 
+
+2.DeadlockException 
+
+3. Map<Integer,String> map = HashMap<>(); 
+
+     Key k = new Key(5); 
+
+ map.put(1,""val""); 
+
+ map.getKey(10); -> Output? 
+
+4. Integer i = null; int j = i; Sysout(j); 
+
+5.RateLimter in Microservice 
+
+6. write Abstract Factory Design Pattern 
+
+7. Rules of Overriding on Access Modifier 
+
+8. what if super class throws Exception while overriding - Runtime Exception or Compile Time Exception. 
+"	"Interview Date : 24-06-2025
+Panel: V C, Harshavardhan,Shivanagol Ajay
+1. for (var i = 1; i <= 3; i++) {
+  setTimeout(function() {
+    console.log(i);
+  }, i * 100);
+} o/p:4 4 4
+2. for (let i = 1; i <= 3; i++) {
+  setTimeout(function() {
+    console.log(i);
+  }, i * 100);
+}output: 1 2 3
+3. Difference between var, let
+4. what is hosting
+5. const a = {};
+   a.self = a;
+   console.log(a); self: circular
+6. console.log({}); output: {}
+7. Class Component and Functional Component life cycle
+8. How many types of hooks we have and explain.
+9. difference between  == vs ==="	"Interview Panel: Piyush, Rawal 
+Interview Date: 01-07-2025
+Introduction
+previous projects 
+Technical skills with experience
+Experience on Microservices and Day to Day Activites 
+Any Experience on Deployment or is there any devOps team. how you create image files
+Spring Security implementation difference between authentication and authorization
+what is the use of Swagger-ui
+application.properties vs application.yaml
+Springboot application end to end annotations what you used.
+Difference between Monolithic and Microservices
+how we generate the html report for the sonarqube coverage
+what are dependencies have to add for mockito and junit
+MySql and PostgreSql difference
+@Service and @Repository and @RestController differences
+"
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
