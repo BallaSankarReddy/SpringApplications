@@ -1,0 +1,25 @@
+Case study Problem Statement	
+
+Software System lets Admin to upload Stock Price of a Company(which is listed in a Stock Exchange) at different points of time.
+
+System supports View history of mentors (including past ratings), addition of new technical courses, mentor management and training progress tracking.
+
+
+Actors
+Administrator – Add/Edit/Delete/View users, stocks and exchanges.
+User – Generate various charts for stock market performance
+   
+
+Services
+
+Admin User Service add/Delete, View/Modify user details 	
+Admin Stock Service add/Delete, View/Modify stock.	
+Admin Exchange Service  add/Delete, View/Modify stock to exchanges
+Admin Excel bulk upload/download service for adding stocks
+User Graph service to generate charts for performance
+TECHNOLOGY USED
+JAVA 8​
+Postgres
+Spring Boot
+Angular
+
